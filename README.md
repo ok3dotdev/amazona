@@ -1,1 +1,1 @@
-# amazona app
+# Amazona app
