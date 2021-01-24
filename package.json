@@ -20,5 +20,9 @@
   "homepage": "https://github.com/sickerman/amazona#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-plugin-react": "^7.22.0"
   }
 }
